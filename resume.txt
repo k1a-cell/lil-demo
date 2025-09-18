@@ -1,0 +1,18 @@
+Kyle Ezeji
+Email: ezeji.kyle@icloud.com
+
+Skills:
+- Coding
+
+Education:
+- Completed school
+
+---
+This is a simple resume template. You can add more details, such as:
+- Phone number
+- Location
+- More skills
+- School name and graduation year
+- Work experience
+
+To use this as a downloadable resume, copy the above into a Word or Google Docs file, export as PDF, and save as resume.pdf in your project folder.
